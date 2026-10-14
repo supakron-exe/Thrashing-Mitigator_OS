@@ -1,4 +1,8 @@
-psutil
-matplotlib
-customtkinter
-Pillow
+PySide6==6.7.2
+psutil==7.1.0
+keyboard==0.13.5
+qrcode==7.4.2
+pillow==10.4.0
+typing_extensions==4.16.0
+pypng==0.20220715.0
+colorama==0.4.6

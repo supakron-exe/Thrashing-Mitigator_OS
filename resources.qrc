@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RCC>
+  <qresource prefix="/redesign">
+    <file alias="qml/ActionButton.qml">qml/ActionButton.qml</file>
+    <file alias="qml/App.qml">qml/App.qml</file>
+    <file alias="qml/AutoNumberField.qml">qml/AutoNumberField.qml</file>
+    <file alias="qml/AutoOptimizePage.qml">qml/AutoOptimizePage.qml</file>
+    <file alias="qml/BodyText.qml">qml/BodyText.qml</file>
+    <file alias="qml/BusyIndicator.qml">qml/BusyIndicator.qml</file>
+    <file alias="qml/Card.qml">qml/Card.qml</file>
+    <file alias="qml/DistributionCard.qml">qml/DistributionCard.qml</file>
+    <file alias="qml/HistoryCard.qml">qml/HistoryCard.qml</file>
+    <file alias="qml/InsightsAppDetails.qml">qml/InsightsAppDetails.qml</file>
+    <file alias="qml/InsightsAppList.qml">qml/InsightsAppList.qml</file>
+    <file alias="qml/InsightsBrowser.qml">qml/InsightsBrowser.qml</file>
+    <file alias="qml/InsightsChart.qml">qml/InsightsChart.qml</file>
+    <file alias="qml/InsightsEventList.qml">qml/InsightsEventList.qml</file>
+    <file alias="qml/InsightsEventPreview.qml">qml/InsightsEventPreview.qml</file>
+    <file alias="qml/InsightsPage.qml">qml/InsightsPage.qml</file>
+    <file alias="qml/InsightsRanking.qml">qml/InsightsRanking.qml</file>
+    <file alias="qml/InsightsSparkline.qml">qml/InsightsSparkline.qml</file>
+    <file alias="qml/InsightsTrend.qml">qml/InsightsTrend.qml</file>
+    <file alias="qml/MainWindow.qml">qml/MainWindow.qml</file>
+    <file alias="qml/MetricCard.qml">qml/MetricCard.qml</file>
+    <file alias="qml/MotionReveal.qml">qml/MotionReveal.qml</file>
+    <file alias="qml/NavButton.qml">qml/NavButton.qml</file>
+    <file alias="qml/OptimizeCard.qml">qml/OptimizeCard.qml</file>
+    <file alias="qml/OutlineButton.qml">qml/OutlineButton.qml</file>
+    <file alias="qml/qmldir">qml/qmldir</file>
+    <file alias="qml/ResultCard.qml">qml/ResultCard.qml</file>
+    <file alias="qml/ResultToast.qml">qml/ResultToast.qml</file>
+    <file alias="qml/SettingsPage.qml">qml/SettingsPage.qml</file>
+    <file alias="qml/StatusBadge.qml">qml/StatusBadge.qml</file>
+    <file alias="qml/Theme.qml">qml/Theme.qml</file>
+    <file alias="assets/app.ico">assets/app.ico</file>
+    <file alias="assets/logo.png">assets/logo.png</file>
+    <file alias="i18n/en_US.qm">i18n/en_US.qm</file>
+    <file alias="i18n/th_TH.qm">i18n/th_TH.qm</file>
+  </qresource>
+</RCC>

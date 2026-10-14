@@ -1,4 +1,13 @@
+.venv/
+.runtime/
+build/
+dist/
+release/
 __pycache__/
 *.pyc
-.venv/
-venv/
+resource_rc.py
+vendor/FluentUI/imports/resource_rc.py
+vendor/FluentUI/imports/FluentUI/i18n/*.qm
+i18n/*.qm
+.migration-stage/
+.pytest_cache/
